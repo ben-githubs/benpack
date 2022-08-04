@@ -1,0 +1,7 @@
+AnalysisType: pack
+PackID: BenAirey.Test.Pack
+Description: A test pack by me, Ben!
+PackDefinition:
+  IDs:
+    - Ben.Null
+DisplayName: BenPack TM

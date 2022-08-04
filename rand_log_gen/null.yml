@@ -1,0 +1,15 @@
+AnalysisType: rule
+Filename: null.py
+RuleID: Ben.Null
+DisplayName: Always returns False.
+Enabled: true
+LogTypes:
+  - Custom.BenRandLogger
+Tags:
+  - Ben
+Reports:
+  CIS:
+    - 3.5
+Severity: Info
+Description: >
+  I made this to test packs.
